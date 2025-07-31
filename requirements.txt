@@ -1,0 +1,15 @@
+Flask==3.1.0
+gunicorn==21.2.0
+requests==2.32.3
+python-vlc==3.0.21203
+comtypes==1.4.9
+
+langchain-core==0.3.32
+langchain-community==0.3.16
+langchain-groq==0.2.3
+
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+py-espeak-ng==0.1.8
+
+yt-dlp==2025.1.26
